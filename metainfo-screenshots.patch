@@ -1,0 +1,33 @@
+diff --git a/data/org.gnome.PasswordSafe.appdata.xml.in.in b/data/org.gnome.PasswordSafe.appdata.xml.in.in
+index 753bf832..b32c30fc 100644
+--- a/data/org.gnome.PasswordSafe.appdata.xml.in.in
++++ b/data/org.gnome.PasswordSafe.appdata.xml.in.in
+@@ -151,22 +151,22 @@
+   </categories>
+   <screenshots>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/browser.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/browser.png</image>
+     </screenshot>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/entry.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/entry.png</image>
+     </screenshot>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/start.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/start.png</image>
+     </screenshot>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/unlock.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/unlock.png</image>
+     </screenshot>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/search.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/search.png</image>
+     </screenshot>
+     <screenshot>
+-      <image>https://gitlab.gnome.org/World/PasswordSafe/raw/master/screenshots/edit.png</image>
++      <image>https://gitlab.gnome.org/World/secrets/raw/master/screenshots/edit.png</image>
+     </screenshot>
+   </screenshots>
+   <translation type="gettext">passwordsafe</translation>
